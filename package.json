@@ -1,0 +1,22 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "FizzBuzz function\r Given an integer n, return a string array answer (1-indexed) where:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrgregorien/FizzBuzz.git"
+  },
+  "keywords": [
+    "fizz-buzz-function"
+  ],
+  "author": "LeetCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrgregorien/FizzBuzz/issues"
+  },
+  "homepage": "https://github.com/mrgregorien/FizzBuzz#readme"
+}

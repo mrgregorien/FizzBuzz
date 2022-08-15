@@ -7,8 +7,14 @@ var fizzBuzz = function (n) {
 };
 
 /* 
-n = int
+return = String(answer{choices: [FizzBuzz,Fizz,Buzz]})
+param(N) = int ...eg (n=3)
+
 return string-array = answer
 
-for >>  answer[i] "string" (.. % by n &% n )
+if >> 
+for >>  answer[i] "string" (.. % by n && n )
+
+
+
 */
